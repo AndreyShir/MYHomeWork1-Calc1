@@ -57,7 +57,7 @@ namespace Calculator
                     return null;
                 }
         }   
-            private static int multCalc(int operand1,int operand2)
+        private static int multCalc(int operand1,int operand2)
         {   
                 return operand1 = operand1 * operand2;
         }
